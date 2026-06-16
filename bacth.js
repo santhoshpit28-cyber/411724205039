@@ -32,3 +32,8 @@ const first=document.createElement("h1")
 first.textContent="some text"
 document.body.appendChild(first)
 first.remove()
+const f=289;
+console.log(f)
+ console.log(23456)
+ console.log(234563989489849);
+ console.log("PRINT SANTHOSH");
